@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roshka\\source\\repos\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj": {}
+    "C:\\Users\\roshka\\Documents\\GitHub\\Blog.Engine.FE\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roshka\\source\\repos\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj": {
+    "C:\\Users\\roshka\\Documents\\GitHub\\Blog.Engine.FE\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roshka\\source\\repos\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj",
+        "projectUniqueName": "C:\\Users\\roshka\\Documents\\GitHub\\Blog.Engine.FE\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj",
         "projectName": "BlogEngineFE",
-        "projectPath": "C:\\Users\\roshka\\source\\repos\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj",
+        "projectPath": "C:\\Users\\roshka\\Documents\\GitHub\\Blog.Engine.FE\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj",
         "packagesPath": "C:\\Users\\roshka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roshka\\source\\repos\\BlogEngineFE\\BlogEngineFE\\obj\\",
+        "outputPath": "C:\\Users\\roshka\\Documents\\GitHub\\Blog.Engine.FE\\BlogEngineFE\\BlogEngineFE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roshka\\AppData\\Roaming\\NuGet\\NuGet.Config",
