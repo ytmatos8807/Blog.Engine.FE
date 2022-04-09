@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JBJfQQ0+eoK6vphm3O6VdCeq2A9DdZRrR1VAqEZk260MP7WEpnRfPSFHMGE1lYkhlq3lyCP5r1Snv9OUnNSdig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roshka\\source\\repos\\BlogEngineFE\\BlogEngineFE\\BlogEngineFE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roshka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
