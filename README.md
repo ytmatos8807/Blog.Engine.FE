@@ -37,7 +37,9 @@ The Technologies used:
   
   $ git clone https://github.com/ytmatos8807/BlogEngine.git
   
-  
+ 
+*  To configure the server address on the front you must edit the appsettings.json file 
+ 
  To view the application in the browser and the swagger go to the url:  
   
  url swagger -  https://localhost:44362/swagger/ui/index

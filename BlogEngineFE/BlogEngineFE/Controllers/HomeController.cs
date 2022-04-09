@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
-namespace BlogEngine.Controllers
+namespace BlogEngineFE.Controllers
 {
     public class HomeController : Controller
     {
@@ -17,6 +17,10 @@ namespace BlogEngine.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+        public IActionResult GetPosts()
+        {
+            return Ok(BlogEngineServiceClient.Get().Result);
         }
 
         public IActionResult Privacy()

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
-namespace BlogEngine.Controllers
+namespace BlogEngineFE.Controllers
 {
     public class LoginController : Controller
     {

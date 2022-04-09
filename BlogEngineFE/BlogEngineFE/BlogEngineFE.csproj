@@ -4,4 +4,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Net.Http.Json" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Blog.Engine.Base">
+      <HintPath>..\..\..\Blog.Engine.Base\Blog.Engine.Base\Blog.Engine.Base\bin\Debug\Blog.Engine.Base.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
